@@ -1,3 +1,5 @@
+export 'data.dart';
+
 const yourLibrary = [
   'Made For You',
   'Recently Played',
